@@ -59,3 +59,4 @@ Após a execução, o sistema apresentará um relatório detalhado que inclui:
 - Tempo total gasto na execução
 - Total de requests realizados
 - Quantidade de requests com status HTTP 200
+- Distribuição de outros códigos de status HTTP (como 404, 500, etc.).
