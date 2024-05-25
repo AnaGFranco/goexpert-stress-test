@@ -36,7 +36,7 @@ cd goexpert-stress-test
    ./loadtester --url=http://google.com --requests=100 --concurrency=10
    ```
 
-### Executar via Docker (opcional)
+### Executar via Docker
 
 1. **Construir a imagem Docker:**
 
